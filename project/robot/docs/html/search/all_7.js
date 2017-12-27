@@ -1,9 +1,0 @@
-var searchData=
-[
-  ['id',['id',['../class_home_base.html#afbc95a00e7080ca7925bd290169dbb72',1,'HomeBase::id()'],['../class_player.html#af54c7003f9ce1a4df8bd59f541523cae',1,'Player::id()'],['../class_robot.html#a96f81bdd61724ec2d1bcf0cb6823f015',1,'Robot::id()']]],
-  ['inrange',['InRange',['../class_sensor_entity_type.html#af26e24e551db06c498c4888e57251014',1,'SensorEntityType::InRange()'],['../class_sensor_proximity.html#af3751dd36665f963d75dfd1b207154b3',1,'SensorProximity::InRange()']]],
-  ['is_5fmobile',['is_mobile',['../class_arena_entity.html#a942860f97531312a368c0fb927ee983b',1,'ArenaEntity::is_mobile()'],['../class_arena_immobile_entity.html#ab82fe10afc53098657957988ecd1926c',1,'ArenaImmobileEntity::is_mobile()'],['../class_arena_mobile_entity.html#a8c8700188eb9e0404b3b7153a384c71b',1,'ArenaMobileEntity::is_mobile()']]],
-  ['isdistress',['IsDistress',['../class_event_distress_call.html#aa2a024514b39e5e18498ea242c0faa35',1,'EventDistressCall::IsDistress()'],['../class_event_distress_call.html#a70d8d728d0fc3af504e8071f10df480a',1,'EventDistressCall::IsDistress(int d)'],['../class_sensor_distress.html#a2f43bb94aa38c1f05aed0d3337ac3526',1,'SensorDistress::IsDistress()'],['../class_sensor_distress.html#ab0feed57dc40f7c91b8a6667457386ff',1,'SensorDistress::IsDistress(int d)']]],
-  ['isrange',['IsRange',['../class_sensor_distress.html#a8ed602783acac4a507251ebaab489a4e',1,'SensorDistress']]],
-  ['isrobot',['isRobot',['../class_motion_handler.html#af95fc59a576475cfa99cd174c7da6376',1,'MotionHandler::isRobot()'],['../class_motion_handler_player.html#a0c0c1631f8ee260e05a943fb17385556',1,'MotionHandlerPlayer::isRobot()'],['../class_motion_handler_robot.html#a29cc5d442386800be92a81cdfad68576',1,'MotionHandlerRobot::isRobot()'],['../class_motion_handler_super_bot.html#a8e57c6591750f06baab6b0fbc3385830',1,'MotionHandlerSuperBot::isRobot()']]]
-];
